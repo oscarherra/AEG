@@ -47,7 +47,7 @@
         <!-- Presidencia -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/brandon.jpg') }}" alt="Brandon Alvarez" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Brandon Alvarez" class="img-fluid">
                 <h5>Presidencia</h5>
                 <p>Brandon Fabián Quesada Álvarez</p>
             </div>
@@ -57,23 +57,23 @@
             <div class="profile-card text-center">
                 <img src="{{ asset('images/persona.png') }}" alt="Sin Representación" class="img-fluid">
                 <h5>Vicepresidencia</h5>
-                <p>Sin representación</p>
+                <p>Ayda María Fonseca Fonseca</p>
             </div>
         </div>
         <!-- Tesorería -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/daniel.jpg') }}" alt="Daniel Salazar" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Daniel Salazar" class="img-fluid">
                 <h5>Tesorería</h5>
-                <p>Daniel Salazar Corrales</p>
+                <p>Sin Representación</p>
             </div>
         </div>
         <!-- Secretaría -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/ronald.jpg') }}" alt="Ronald" class="img-fluid">
-                <h5>Secretaría</h5>
-                <p>Ronald</p>
+                <img src="{{ asset('images/persona.png') }}" alt="Ronald" class="img-fluid">
+                <h5>Secretaría General</h5>
+                <p>Ericka Alexandra Jimenez Naranjo</p>
             </div>
         </div>
         <!-- Secretaría de Comunicación -->
@@ -81,7 +81,7 @@
             <div class="profile-card text-center">
                 <img src="{{ asset('images/persona.png') }}" alt="Sin Representación" class="img-fluid">
                 <h5>Secretaría de Comunicación</h5>
-                <p>Sin representación</p>
+                <p>Maholy Nicole Valle Pereira</p>
             </div>
         </div>
         <!-- Secretaría de Deportes y Cultura -->
@@ -89,31 +89,31 @@
             <div class="profile-card text-center">
                 <img src="{{ asset('images/persona.png') }}" alt="Sin Representación" class="img-fluid">
                 <h5>Secretaría de Deportes y Cultura</h5>
-                <p>Sin representación</p>
+                <p>Anthony Gerardo Gutiérrez Pizarro</p>
             </div>
         </div>
         <!-- Fiscalía -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/hansy.jpg') }}" alt="Hansy Polanco" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Hansy Polanco" class="img-fluid">
                 <h5>Fiscalía</h5>
-                <p>Hansy Polanco</p>
+                <p>Erick Dilan Viales Ruiz</p>
             </div>
         </div>
         <!-- Vocalía 1 -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/elias.jpg') }}" alt="Elias" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Elias" class="img-fluid">
                 <h5>Vocalía 1</h5>
-                <p>Elias</p>
+                <p>Gabriel López Arrieta</p>
             </div>
         </div>
         <!-- Vocalía 2 -->
         <div class="col-md-4">
             <div class="profile-card text-center">
-                <img src="{{ asset('images/anthony.jpg') }}" alt="Anthonny Pizarro" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Anthonny Pizarro" class="img-fluid">
                 <h5>Vocalía 2</h5>
-                <p>Anthonny Gerardo Pizarro</p>
+                <p>Sin representación</p>
             </div>
         </div>
     </div>
@@ -123,9 +123,9 @@
         <!-- Titular del CSE -->
         <div class="col-md-4 text-center">
             <div class="profile-card">
-                <img src="{{ asset('images/oscar.jpg') }}" alt="Oscar Herra" class="img-fluid">
+                <img src="{{ asset('images/persona.png') }}" alt="Oscar Herra" class="img-fluid">
                 <h5>Titular del CSE</h5>
-                <p>Óscar Andrés Herra Abarca</p>
+                <p>Olger David Urtecho Oporta</p>
             </div>
         </div>
         <!-- Suplencia del CSE -->
@@ -133,7 +133,7 @@
             <div class="profile-card">
                 <img src="{{ asset('images/persona.png') }}" alt="Melany" class="img-fluid">
                 <h5>Suplencia del CSE</h5>
-                <p>Melany</p>
+                <p>Kembly Tatyana Camacho Rizo</p>
             </div>
         </div>
     </div>

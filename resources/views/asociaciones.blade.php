@@ -27,7 +27,7 @@
                             <tbody>
                                 <tr>
                                     <td>Presidencia</td>
-                                    <td>José Pablo Tablada Castillo</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
@@ -42,32 +42,32 @@
                                 </tr>
                                 <tr>
                                     <td>Secretaría</td>
-                                    <td>Nicole Solera Villegas</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
                                     <td>Fiscalía</td>
-                                    <td>Keilyn Vanegas Cortés</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
                                     <td>Vocalía I</td>
-                                    <td>Melvin Flores Sandoval</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
                                     <td>Vocalía II</td>
-                                    <td>Javier Martínez Gutiérrez</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
                                     <td>Titularidad del CAC</td>
-                                    <td>Josías Chavarría Jiménez</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                                 <tr>
                                     <td>Suplencia del CAC</td>
-                                    <td>Krissia Mariela Leiva Venegas</td>
+                                    <td>Pendiente</td>
                                     <td>Pendiente</td>
                                 </tr>
                             </tbody>
@@ -392,53 +392,53 @@
                             <th scope="col">Carné</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td>Presidencia</td>
-                            <td>Noelia Alvarado Moreno</td>
-                            <td>C00324</td>
-                        </tr>
-                        <tr>
-                            <td>Vicepresidencia</td>
-                            <td>Rafael Hernández González</td>
-                            <td>C23740</td>
-                        </tr>
-                        <tr>
-                            <td>Tesorería</td>
-                            <td>Aarón Salazar Mata</td>
-                            <td>C37190</td>
-                        </tr>
-                        <tr>
-                            <td>Secretaría</td>
-                            <td>Luis Valverde Torres</td>
-                            <td>B98103</td>
-                        </tr>
-                        <tr>
-                            <td>Fiscalía</td>
-                            <td>Sergio Cabalceta Viales</td>
-                            <td>C01406</td>
-                        </tr>
-                        <tr>
-                            <td>Vocalía I</td>
-                            <td>Joshua Carmona Pérez</td>
-                            <td>C21703</td>
-                        </tr>
-                        <tr>
-                            <td>Vocalía II</td>
-                            <td>Sin representación</td>
-                            <td>-</td>
-                        </tr>
-                        <tr>
-                            <td>Titularidad del CAC</td>
-                            <td>Fabricio Alvarez Valverde</td>
-                            <td>C4C421</td>
-                        </tr>
-                        <tr>
-                            <td>Suplencia del CAC</td>
-                            <td>Kristy Acosta Mercado</td>
-                            <td>C20051</td>
-                        </tr>
-                    </tbody>
+                   <tbody>
+                                <tr>
+                                    <td>Presidencia</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Vicepresidencia</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Tesorería</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Secretaría</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Fiscalía</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Vocalía I</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Vocalía II</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Titularidad del CAC</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                                <tr>
+                                    <td>Suplencia del CAC</td>
+                                    <td>Pendiente</td>
+                                    <td>Pendiente</td>
+                                </tr>
+                            </tbody>
                 </table>
             </div>
         </div>

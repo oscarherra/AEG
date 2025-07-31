@@ -45,12 +45,12 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>David Rafael Zúñiga Chavarría</td>
-                                    <td>C18747</td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                                 <tr>
-                                    <td>Laura Nayeli Alcocer Leal</td>
-                                    <td>C08754</td>
+                                    <td></td>
+                                    <td></td>
                                 </tr>
                             </tbody>
                         </table>

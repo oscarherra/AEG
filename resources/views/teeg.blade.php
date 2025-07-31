@@ -4,12 +4,10 @@
 
 @section('content')
 <div class="container mt-5 mb-5">
-    <!-- Encabezado Principal -->
     <div class="text-center mb-5">
         <h1>Tribunal Electoral Estudiantil</h1>
     </div>
 
-    <!-- Información Principal -->
     <div class="row justify-content-center align-items-center mb-5">
         <div class="col-md-4 text-center">
             <img src="{{ asset('images/teeg.jpg') }}" alt="Tribunal Electoral Estudiantil" class="img-fluid mb-3" style="max-height: 300px; object-fit: contain;">
@@ -51,13 +49,13 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr><td>Presidencia</td><td>Byron Rodolfo Navarrete Zúñiga</td><td>C25478</td><td>byron.navarrete@ucr.ac.cr</td></tr>
-                                <tr><td>Vicepresidencia</td><td>Andrés Medina Gutierrez</td><td>C4H036</td><td>andres.medinagutierrez@ucr.ac.cr</td></tr>
-                                <tr><td>Secretaría</td><td>Jorge Mario Araya Alvarado</td><td>B90478</td><td>jorge.arayaalvarado@ucr.ac.cr</td></tr>
-                                <tr><td>Tesorería</td><td>Sebastián Abarca Chaves</td><td>C30009</td><td>sebastian.abarca@ucr.ac.cr</td></tr>
-                                <tr><td>Fiscalía</td><td>Daniel Steven Gatgens Malespin</td><td>C4F411</td><td>danielgatgens@gmail.com</td></tr>
-                                <tr><td>Suplencia I</td><td>Ayda María Fonseca Fonseca</td><td>C23015</td><td>ayda.fonseca@ucr.ac.cr</td></tr>
-                                <tr><td>Suplencia II</td><td>Carlos Andrés Badilla Junez</td><td>C30883</td><td>carandrebaju12@gmail.com</td></tr>
+                                <tr><td>Presidencia</td><td></td><td></td><td></td></tr>
+                                <tr><td>Vicepresidencia</td><td></td><td></td><td></td></tr>
+                                <tr><td>Secretaría</td><td></td><td></td><td></td></tr>
+                                <tr><td>Tesorería</td><td></td><td></td><td></td></tr>
+                                <tr><td>Fiscalía</td><td></td><td></td><td></td></tr>
+                                <tr><td>Suplencia I</td><td></td><td></td><td></td></tr>
+                                <tr><td>Suplencia II</td><td></td><td></td><td></td></tr>
                             </tbody>
                         </table>
                     </div>
